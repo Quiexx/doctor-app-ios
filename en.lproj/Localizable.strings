@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  DoctorApp
+
+  Created by Andrey Lvov on 23.11.2023.
+  
+*/
+"headerGreeting" = "Hello,";
+"searchDoctor" = "Search doctor or health issue";
+"nearDoctor" = "Near doctor";
